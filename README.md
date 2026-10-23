@@ -33,10 +33,8 @@ A console-based quiz application built using Java that tests your knowledge of J
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/DeepakAdhithiya/Java-Quiz-using-Java-Program>
 ```
-
-Replace `<your-repository-url>` with the URL of this GitHub repository.
 
 ### 2. Navigate to the project folder
 
